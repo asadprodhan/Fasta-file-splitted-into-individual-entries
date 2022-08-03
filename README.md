@@ -3,8 +3,8 @@
 
 <br />
 <p align="center">
-  <pdf 
-    src="https://github.com/asadprodhan/Fasta-file-splitted-into-individual-entries/blob/main/Fasta%20file%20splitted%20into%20individual%20entries.pdf"
+  <img 
+    src="https://github.com/asadprodhan/Fasta-file-splitted-into-individual-entries/blob/main/fastFileSplitted_infograph.PNG"
   >
 </p>
 <p align = "center">
