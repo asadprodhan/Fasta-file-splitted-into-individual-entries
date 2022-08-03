@@ -8,5 +8,5 @@
   >
 </p>
 <p align = "center">
-Figure showing organism directory in RefSeq
+Figure showing the output files after running the attached automated script
 </p>
